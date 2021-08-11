@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasanilteris
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m a Frontend Developer.
+-
 -  📫 How to reach me 
 -  hasanilterisdincer@gmail.com
 -  www.linkedin.com/in/hasanilterisdincer0000
