@@ -4,8 +4,7 @@
 ### I'm Hasan Ilteris, i am working on Web developing. I am sharing my projects in here. 
 
 
-### Reach out to me
-
+### Connect with me
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" align="left" />][gmail]
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
 
