@@ -5,16 +5,7 @@
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
 
-### Connect with me
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" align="left" />][gmail]
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
 
-
-[linkedin]:https://www.linkedin.com/in/hasanilterisdincer0000
-[gmail]:hasanilterisdincer@gmail.com
-
-<br />
-<br />
 <div size='20px'> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
