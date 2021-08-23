@@ -1,7 +1,7 @@
 
 ## Hi, Welcome To My Github Profile :wave: :wave: :wave: 
 
-### I'm Hasan Ilteris, i am frontend developer. 
+### I'm Hasan Ilteris, i am a frontend developer. 
 <h3 align="left"> Glad to see you here! :smile: </h3>
 
 
