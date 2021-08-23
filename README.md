@@ -13,7 +13,7 @@
 <a href = 'https://www.instagram.com/hasanilteris/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.github.com/hasanilteris'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=hasanilteris.hasanilteris)
+
   
 
 
