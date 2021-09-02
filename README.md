@@ -34,10 +34,6 @@
 
 <br>
 </p>
-<details>
-<summary>:bulb: Github stats<summary>
-<img src="https://github-readme-stats.vercel.app/api?username=hasanilteris&theme=radical">
-</details>
 
 <details>
 <summary>:bulb: Github stats<summary>
