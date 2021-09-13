@@ -10,7 +10,7 @@
 <h2 align='left'> Connect with me  </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/hasanilterisdincer0000'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/hasanilteris/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+
 
  
 
