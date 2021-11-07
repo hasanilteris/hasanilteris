@@ -39,13 +39,6 @@
 <br>
 </p>
 
-<details>
-<summary>:bulb: Github stats<summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</details>
-
-
-
 
 <!---
 hasanilteris/hasanilteris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
