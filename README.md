@@ -3,24 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanilteris&label=Profile%20views&color=0e75b6&style=flat" alt="hasanilteris" /> </p>
 
-
-
-
-<div size='20px'> 
-<h2 align='left'> Connect with me  </h2>
-<p align='left'>
-<a href = 'https://www.linkedin.com/in/hasanilterisdincer0000'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
-
- 
-
-  
-
-
-</p>
-</div>
-
-
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
