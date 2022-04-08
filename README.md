@@ -22,7 +22,10 @@
 &nbsp;
 
 
-   
+   [tech_tools_anchor]: #hello--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
+
                                                                                                                                          
                                                                                                                                           
                                                                                                                                        
