@@ -20,7 +20,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=next.js&logoColor=FFFFFF" alt="Typescript logo" title="Typescript" height="25" />][learning_next_anchor]
+&nbsp;
 
    [tech_tools_anchor]: #hello--
 [learning_now_anchor]: #learning-now
