@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanilteris&label=Profile%20views&color=0e75b6&style=flat" alt="hasanilteris" /> </p>
 <a href="https://github.com/hasanilteris">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanilteris&show_icons=true&theme=midnight-purple&line_height=27" alt="Hasan's github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hasanilteris&show_icons=true&theme=midnight-purple&line_height=27" alt="Hasan's github stats"/>
 </a>
  <br/>
 
