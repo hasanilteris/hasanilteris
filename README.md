@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan İlteriş Dincer</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Clone Projects**
+- 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React and Typescript**
 
