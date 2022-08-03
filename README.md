@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **hasanilterisdincer@gmail.com**
 
-- 🚩 My goal is to be a MERN Stack Developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
