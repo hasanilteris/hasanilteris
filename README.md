@@ -21,7 +21,7 @@
 
 ```javascript
 const hasanilterisdincer= {
-    located_in: Samsun/Turkiye,
+    located_in: Samsun/Turkey,
     current_job: Frontend Developer,
     technologies: {
           frontEnd: {
