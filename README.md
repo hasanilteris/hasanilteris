@@ -21,7 +21,6 @@
 
 ```javascript
 const hasanilterisdincer= {
-    pronouns: "He" | "Him",
     located_in: Samsun/Turkiye,
     current_job: Frontend Developer,
     technologies: {
