@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **hasanilterisdincer@gmail.com**
 
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=hasanilteris&&style=flat-square" align="center" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
