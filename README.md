@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=hasanilteris&&style=flat-square" align="center" />
 </div>
 
-<img src="https://giphy.com/embed/cFdHXXm5GhJsc" width="480" height="377" />
+<img src="https://giphy.com/gifs/tmnt-teenage-mutant-ninja-turtles-cFdHXXm5GhJsc" width="480" height="377" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasandincer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasandincer0" height="30" width="40" /></a>
