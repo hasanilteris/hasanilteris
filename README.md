@@ -10,7 +10,7 @@
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hasanilteris&&style=flat-square" align="center" />
 </div>
-<div> <iframe src="https://giphy.com/embed/QkksEGbn9YEJKJbF31" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-QkksEGbn9YEJKJbF31">via GIPHY</a></p></div>
+<div> <img> src="https://giphy.com/embed/QkksEGbn9YEJKJbF31" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/fallontonight-jimmy-fallon-tonight-show-QkksEGbn9YEJKJbF31">via GIPHY</a></p></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
