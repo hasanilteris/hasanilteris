@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/hasanilterisdincer0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanilterisdincer0000" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hasanilterisdincer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanilterisdincer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hasanilterisdin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hasanilterisdin1" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/hasanilteris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hasanilteris/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hasanilteris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hasanilteris/" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
