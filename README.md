@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanilteris&label=Profile%20views&color=000000&style=flat" alt="hasanilteris" /> </p>
-
+<p align="center>
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
 - 📫 How to reach me **hasanilterisdincer@gmail.com**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hasandincer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasandincer0" height="30" width="40" /></a>
