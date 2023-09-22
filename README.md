@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 - 📫 How to reach me **hasanilterisdincer@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/hasandincer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasandincer0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasanilterisdincer0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanilterisdincer0000" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hasanilterisdincer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasanilterisdincer" height="30" width="40" /></a>
