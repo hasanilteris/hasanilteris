@@ -24,7 +24,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanilteris&show_icons=true&locale=en" alt="hasanilteris" /></p>
-
 
 
