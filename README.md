@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan İlteriş</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">Software Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanilteris&label=Profile%20views&color=000000&style=flat" alt="hasanilteris" /> </p>
 
